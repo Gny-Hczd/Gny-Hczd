@@ -1,14 +1,23 @@
-# Hi, I'm Günay 👋  
+Hi, I'm Günay 👋
 
-🎓 Student at **Baku Engineering University**  
-💻 Strong interest in **programming**  
-Currently learning **Python** 🐍, and planning to explore **C++** 💻 and **Java** ☕ in the future.  
+🎓 Student at Baku Engineering University
+💻 Strong interest in programming
+🐍 Currently learning Python
+🔜 Planning to explore C++ and Java in the future
 
-### Interests
-- 💻 Software Development
-- 🧩 Algorithm Development
-- 🔒 Cybersecurity
+Interests
 
-### Tech Stack
-🐍 Currently learning: Python  
+🤖 Artificial Intelligence & Machine Learning
+
+💻 Software Development
+
+🧩 Algorithm Development
+
+🔒 Cybersecurity
+
+
+Tech Stack
+
+🐍 Currently learning: Python
+
 💻 Planning to learn: C++, Java
